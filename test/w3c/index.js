@@ -59,3 +59,4 @@ w3cTest("html/infrastructure/urls/terminology-0/document-base-url.html");
 w3cTest("html/syntax/serializing-html-fragments/outerHTML.html");
 w3cTest("html/webappapis/atob/base64.html");
 w3cTest("dom/ranges/Range-attributes.html");
+w3cTest("dom/ranges/Range-collapse.html");
